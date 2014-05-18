@@ -1,3 +1,5 @@
+__author__ = 'jamesma'
+
 from __future__ import division
 import string, datetime
 from numpy import *

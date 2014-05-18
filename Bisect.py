@@ -1,3 +1,5 @@
+__author__ = 'jamesma'
+
 from scipy import *
 import numpy as np
 

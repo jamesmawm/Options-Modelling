@@ -1,3 +1,5 @@
+__author__ = 'jamesma'
+
 import math
 import scipy.optimize
 import scipy.stats as stats
