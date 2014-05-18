@@ -12,3 +12,7 @@ Requires SciPy and NumPy.
 Copula.py
 =======
 Credit-loss modelling functions.
+
+Trees?
+=======
+Some Leisen-Reimer tree stuffs.. later.
