@@ -1,5 +1,3 @@
-__author__ = 'jamesma'
-
 import math
 import scipy.optimize
 import scipy.stats as stats
@@ -26,7 +24,6 @@ def bsformula(callput, S0, K, r, T, sigma, q=0):
     def optionValueOfCall(S0, K, r, T, sigma, q):       
         _d1 = d1(S0, K, r, T, sigma, q)
         _d2 = d2(S0, K, r, T, sigma, q)
-        print _d1
         return S0*math.exp(-q*T)*N(_d1)- K*math.exp(-r*T)*N(_d2)
       
     def optionValueOfPut(S0, K, r, T, sigma, q):
