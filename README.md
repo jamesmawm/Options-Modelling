@@ -18,6 +18,7 @@ Returns a 3-tuple of option price, delta and gamma according to a Leisen-Reimer 
 
 Uses Version 1 of the Peizer/Pratt inversion formula (see attached paper).
 
+
 BS formula values are used in the final-step substitution of the LR Tree.
 
 (What better way to price an option on the very last day of expiry?)
