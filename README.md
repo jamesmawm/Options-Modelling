@@ -15,7 +15,6 @@ Credit-loss modelling functions.
 LRTree.py
 =======
 Returns a 3-tuple of option price, delta and gamma according to a Leisen-Reimer tree.
-
 Uses Version 1 of the Peizer/Pratt inversion formula (see attached paper).
 
 
