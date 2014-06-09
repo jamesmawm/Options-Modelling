@@ -1,6 +1,5 @@
 Bisect.py
 =================
-
 The root-finding algorithm using the bisection method.
 
 BS.py
